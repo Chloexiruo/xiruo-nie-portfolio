@@ -181,7 +181,7 @@ function App() {
       <section className="experience" id="experience" aria-labelledby="experience-title">
         <div className="section-label section-label--ink">
           <span>03</span>
-          <p>Internship and leadership</p>
+          <p>Internship</p>
         </div>
 
         <div className="experience__heading">
