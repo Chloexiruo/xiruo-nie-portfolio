@@ -1,0 +1,15 @@
+# Installed dependencies and generated builds
+node_modules/
+dist/
+
+# Local development files
+.vite/
+*.log
+.DS_Store
+
+# Local Codex workspace metadata
+.agents/
+.codex/
+
+# Keep the unused Chinese CV local unless it is added to the website later.
+public/cv/*chinese*.pdf
